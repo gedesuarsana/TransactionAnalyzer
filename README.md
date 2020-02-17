@@ -2,7 +2,7 @@
 Simplified financial transaction analysis system.<br/>
  This app is used for display statistic information about processed financial transactions.
 
-###Pre-requisites
+# Pre-requisites
 -Git installed on your local machine
 <br/>
 -IDE such as Intelij or Eclipse
@@ -10,14 +10,14 @@ Simplified financial transaction analysis system.<br/>
 -Maven installed
 
 
-###How to Build:
+# How to Build:
 1. Go to your project directory open the command line
 2. git clone https://github.com/gedesuarsana/TransactionAnalyzer.git
 3. cd TransactionAnalyzer
 4. mvn clean install
 
 
-###How to Run:
+# How to Run:
 1. On your project directory. 
 2. cd target folder.
 3. Run java -jar TransactionAnalyzer-1.0-SNAPSHOT.jar [CSV File Location] [From Date] [To Date] [Merchant Name]
