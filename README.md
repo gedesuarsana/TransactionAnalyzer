@@ -2,7 +2,7 @@
 Simplified financial transaction analysis system.<br/>
  This app is used for display statistic information about processed financial transactions.
 
-# Pre-requisites
+# Pre-requisites:
 -Git installed on your local machine
 <br/>
 -IDE such as Intelij or Eclipse
